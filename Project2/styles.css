@@ -1,0 +1,66 @@
+@media(max-width: 1920PX) and (min-width: 1295px){ 
+
+}
+img{ 
+    width: 498px;
+    height: 498px;
+}
+.headdder{
+    display: flex;
+    align-items: flex-start;
+    width: 1,290px;
+    height: 82px;
+    margin-top: 47px;
+    border: 1px;
+
+}
+
+.text1{
+    display: flex;
+    align-items: flex-start;
+    color: #ffffff;
+    margin-top: 47px;
+    margin-left: 370px;
+    font-size: 21px;
+    font-family: Montserrat-Regular
+}
+.text2{
+    display: flex;
+    align-items: flex-start;
+    color: #ffffff;
+    width: 159px;
+    height: 36px;
+    line-height: 150%;
+    font-size: 12px;
+    font-family: Montserrat-Regular;
+}
+.numbers{
+    display:flex;
+    align-items: flex-start;
+    font-size: 20px;
+    width: 180px;
+    height: 31px;
+    font-weight: 700px;
+    color: #ffffff;
+    margin-top: 47px;
+}
+
+
+    .text3{ 
+            display: flex;
+            color: #ffffff;
+            gap: 40px;
+            width: 647px;
+            height: 334px;
+            margin-top: 307px;
+            margin-left: 370px;
+            font-size: 48px;
+            line-height: 60px;
+            
+        }
+body{
+    background-image: url(../Project2/IMAGES/bg.jpg);
+    background-size: cover;
+}
+
+
